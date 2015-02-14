@@ -93,30 +93,6 @@ is a work in progress.  Please report bugs.
 .SH "AUTHOR"
 .I Nicholas DeClario
 <nick@declario.com>
-.SH "COPYRIGHT NOTICE"
-Copyright \(co 2006 Free Software Foundation, Inc.
-.br
-Copyright \(co 2015 Nicholas DeClario
-.PP
-Permission is granted to make and distribute verbatim copies of
-this manual provided the copyright notice and this permission notice
-are preserved on all copies.
-.ig
-Permission is granted to process this file through troff and print the
-results, provided the printed document carries copying permission
-notice identical to this one except for the removal of this paragraph
-(this paragraph not being relevant to the printed manual).
-..
-.PP
-Permission is granted to copy and distribute modified versions of this
-manual under the conditions for verbatim copying, provided that the entire
-resulting derived work is distributed under the terms of a permission
-notice identical to this one.
-.PP
-Permission is granted to copy and distribute translations of this manual
-into another language, under the above conditions for modified versions,
-except that this permission notice may be stated in a translation approved
-by the Foundation.
 EOF
     exit 1;
 }
