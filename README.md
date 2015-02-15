@@ -79,21 +79,3 @@ ansible-playbook -i localhost, st-mp/playbooks/stelligent-mp.yml -e 'secure_dir=
 
 ##Author
   Nicholas DeClario <nick@declario.com>
-
-##Copyright Notice
-Copyright © 2006 Free Software Foundation, Inc.
-Copyright © 2015 Nicholas DeClario
-
-Permission  is  granted  to make and distribute verbatim copies of this
-manual provided the copyright notice and  this  permission  notice  are
-preserved on all copies.
-
-Permission  is granted to copy and distribute modified versions of this
-manual under the conditions for verbatim  copying,  provided  that  the
-entire  resulting derived work is distributed under the terms of a per‐
-mission notice identical to this one.
-
-Permission is granted to copy and distribute translations of this  man‐
-ual into another language, under the above conditions for modified ver‐
-sions, except that this permission notice may be stated in  a  transla‐
-tion approved by the Foundation.
